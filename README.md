@@ -13,7 +13,7 @@ This project is an interactive website allowing users to play the Tower of Hanoi
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/username/tower-of-hanoi-website.git
+git clone https://github.com/KyByto/Hanoi-tower.git
 
 
 2. Open the `index.html` file in your web browser.
@@ -22,7 +22,7 @@ git clone https://github.com/username/tower-of-hanoi-website.git
 
 ## Demo
 
-You can see a live demo of the Tower of Hanoi Website [here](https://example.com).
+You can see a live demo of the Tower of Hanoi Website [https://tour-hanoi-jeu.netlify.app/].
 
 ## Installation
 
